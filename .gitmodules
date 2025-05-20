@@ -1,0 +1,9 @@
+[submodule "CNPM_Docs"]
+	path = CNPM_Docs
+	url = https://github.com/tiennhat171/CNPM
+[submodule "CNPM_FrontEnd"]
+	path = CNPM_FrontEnd
+	url = https://github.com/duongtran0503/pos-frontend
+[submodule "CNPM_Backend"]
+	path = CNPM_Backend
+	url = https://github.com/duongtran0503/POS-backend
